@@ -1,0 +1,18 @@
+# environments
+sf/
+
+# data
+raw_data/
+data/train/
+data/eval/
+
+# cache
+__pycache__/
+
+# results
+results/
+
+# garbage files
+sample_test.py
+main.py
+.vscode/
